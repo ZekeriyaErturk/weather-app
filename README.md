@@ -11,7 +11,7 @@ In order to install dependencies
     $ npm install
 ```
 
-For running application
+In order to run the application
 
 ```terminal
     $ npm run dev
